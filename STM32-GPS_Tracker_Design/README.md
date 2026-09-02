@@ -37,7 +37,6 @@ An embedded hardware tracking system featuring an STM32 ARM Cortex-M microcontro
 
 ## Repository Contents
 
-* `/Design_Files` — KiCad schematic files (`.kicad_sch`), PCB layout (`.kicad_pcb`), and project settings.
-* `/Gerbers` — Drill files, copper layers, solder mask, and silkscreen files ready for fabrication.
-* `/BOM` — Full Bill of Materials with manufacturer part numbers, footprints, and electrical ratings.
-* `/Docs` — High-resolution schematic PDF, 3D PCB top/bottom render views, and pinout diagrams.
+* `/Design_files_GPStracker` — KiCad schematic files (`.kicad_sch`), PCB layout (`.kicad_pcb`), and project settings.
+* `/Gerbers_GPStracker` — Drill files, copper layers, solder mask, and silkscreen files ready for fabrication.
+
