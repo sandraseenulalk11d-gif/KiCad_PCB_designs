@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1","1","1000uF","","","","Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm",""
+"D1,D2,D3,D4","4","1N4007","","","","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","http://www.vishay.com/docs/88503/1n4001.pdf"
+"D5","1","LED","","","","LED_THT:LED_D5.0mm",""
+"J1,J2","2","Screw_Terminal_01x02","","","","TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal",""
+"R1","1","10K","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",""
+"R2","1","2.2K","","","","Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal",""
