@@ -9,9 +9,6 @@ A custom industrial-grade controller board featuring ESP32 control, optoisolated
 - **Protection:** Flyback diodes, TVS diode arrays on I/O, and creepage isolation slots
 
 ## Repository Contents
-- `/Design Files`: KiCad schematic (`.kicad_sch`) and layout (`.kicad_pcb`)
-- `/Outputs`: Manufacturing Gerbers (drill, copper, mask layers) and BOM
-- `/Docs`: Schematic PDF export and 3D visual renders
+- `/Design_files_30AHA`: KiCad schematic (`.kicad_sch`) and layout (`.kicad_pcb`)
+- `/Gerbers_30AHA`: Manufacturing Gerbers (drill, copper, mask layers) and BOM
 
-## 3D Render
-![Board Render](3Dview.png)
