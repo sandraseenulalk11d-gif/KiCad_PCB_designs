@@ -37,7 +37,6 @@ A compact, non-isolated capacitive dropper AC-DC power supply designed to provid
 
 ## Repository Contents
 
-* `/Design_Files` — Complete KiCad schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and project configuration.
-* `/Gerbers` — Production-ready Gerber files (copper layers, solder mask, silkscreen, and drill files).
-* `/BOM` — Bill of Materials detailing component footprints, tolerances, and dielectric ratings (specifically X2 safety ratings).
-* `/Docs` — Schematic PDF prints, board dimensions, and 3D top/bottom visual renders.
+* `/Design_Files_AC2DC` — Complete KiCad schematic (`.kicad_sch`), PCB layout (`.kicad_pcb`), and project configuration.
+* `/Gerbers_AC2DC` — Production-ready Gerber files (copper layers, solder mask, silkscreen, and drill files).
+
