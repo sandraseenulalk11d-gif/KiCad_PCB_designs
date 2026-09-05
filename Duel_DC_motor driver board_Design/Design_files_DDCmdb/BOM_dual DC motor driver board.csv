@@ -1,0 +1,7 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C3","2","10uF","","","","Capacitor_THT:CP_Radial_D5.0mm_P2.00mm",""
+"C2,C4","2","0.1uF","","","","Capacitor_SMD:C_0805_2012Metric",""
+"J1,J2,J3,J4","4","Conn_01x02","","","","Connector_JST:JST_XH_B2B-XH-A_1x02_P2.50mm_Vertical",""
+"J5","1","Conn_01x08","","","","Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical",""
+"R1","1","10K","","","","Resistor_SMD:R_0805_2012Metric",""
+"U1","1","TB6612FNG","","","","Package_SO:SSOP-24_5.3x8.2mm_P0.65mm","https://toshiba.semicon-storage.com/us/product/linear/motordriver/detail.TB6612FNG.html"
